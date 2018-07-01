@@ -1,0 +1,6 @@
+[submodule "visua-dev"]
+	path = visua-dev
+	url = git@github.com:Exanis/visua-dev.git
+[submodule "visua-api"]
+	path = visua-api
+	url = git@github.com:Exanis/visua-api.git
